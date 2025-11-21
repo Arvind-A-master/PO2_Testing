@@ -16,12 +16,12 @@ from google import genai
 from dotenv import load_dotenv
 from pathlib import Path
 from google.genai import types
-
+import os 
 load_dotenv()
-
+api_key = os.getenv("GEMINI_API_KEY")
 review_config = {"temperature": 0.0, "top_p": 0.15, "top_k": 6}
 REVIEW_MODEL_NAME = "gemini-2.5-flash"
-review_model = genai.Client()
+review_model = genai.Client(api_key=api_key)
 
 def parse_response_to_json(response_text, source_name):
     import json, re
@@ -98,12 +98,11 @@ def run_multimodal_review(pdf_bytes: bytes) -> dict:
     )
     return result
 
-if __name__ == "__main__":
-    pdf_path = r"TC21_FS_BlkRock_institutional-fund-sl-agency-shares Original.pdf"
-
+def run_multimodal(path):
+    pdf_path = path
     pdf_bytes = pdf_to_bytes(pdf_path=pdf_path)
-
     result = run_multimodal_review(pdf_bytes=pdf_bytes)
+    return  result
     # print("#"*50)
 
-    print(result)
+   

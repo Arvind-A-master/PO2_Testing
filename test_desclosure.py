@@ -5,10 +5,13 @@ import pandas as pd
 from difflib import SequenceMatcher
 from google import genai
 from google.genai import types
+from dotenv import load_dotenv
+import os 
 
 def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
     # 1. Initialize client
-    api_key = "AIzaSyDDOmjGVkrr8T_ufR9DsPFUAyBHp-32jxA"
+    load_dotenv()
+    api_key = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
 
     # 2. Load standard disclosures
@@ -25,15 +28,11 @@ def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
         "Return JSON like: {\"disclosures\": [{\"text\": \"disclosure A\", \"pages\": \"1,2\"}, ...]}"
     )
 
-    # 4. Call Gemini with inline PDF data
     try:
-        # Create PDF part using types.Part
         pdf_part = types.Part.from_bytes(
             data=pdf_bytes, 
             mime_type="application/pdf"
         )
-        
-        # Generate content with PDF and text prompt
         response = client.models.generate_content(
             model="gemini-2.0-flash-exp",
             contents=[pdf_part, system_prompt + "\n\n" + user_prompt]
@@ -48,9 +47,7 @@ def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
         traceback.print_exc()
         return []
 
-    # 5. Parse AI JSON output
     try:
-        # Remove markdown code fences if present
         cleaned = re.sub(r"^```json\s*|\s*```$", "", response_text, flags=re.DOTALL)
         ai_disclosures = json.loads(cleaned).get("disclosures", [])
     except Exception as e:
@@ -58,7 +55,6 @@ def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
         print(f"Response text: {response_text[:500]}")
         ai_disclosures = []
 
-    # 6. Compare with standard disclosures
     results = []
     for std in std_disclosures:
         best = {"score": 0, "text": "", "pages": "N/A"}
@@ -82,17 +78,17 @@ def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
             "status": status,
         })
 
-    # 7. Filter only partially present or missing disclosures
     filtered_results = [r for r in results if r["status"] in ["Partially Present", "Not Present"]]
     return filtered_results
 
 # ------------------------------
 # Test
 # ------------------------------
-if __name__ == "__main__":
-    pdf_path = "TC21_FS_BlkRock_institutional-fund-sl-agency-shares Original.pdf"
+def disclosure(path):
+    pdf_path = path
     with open(pdf_path, "rb") as f:
         pdf_bytes = f.read()
 
     disclosures = run_disclosure_analysis("data/Disclosure Library_TEMPLATE_DRAFT.xlsx", pdf_bytes)
-    print(json.dumps(disclosures, indent=4))
+    res = json.dumps(disclosures, indent=4)
+    return res 

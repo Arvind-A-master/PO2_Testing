@@ -1,7 +1,6 @@
 from google import genai
 import os 
 from dotenv import load_dotenv
-api_key = os.getenv('GEMINI_API_KEY')
 from prompts import (
     base_review_prompt_template,
     text_input_instruction,
@@ -12,6 +11,8 @@ from prompts import (
     false_positives_guardrails
 )
 import json ,re
+load_dotenv()
+api_key = os.getenv("GEMINI_API_KEY")
 
 #### UTILS #####
 
@@ -34,16 +35,6 @@ def parse_response_to_json(response_text, source_name):
         "raw_response": response_text
     }
 
-
-
-
-
-
-
-
-
-
-api_key ="AIzaSyDDOmjGVkrr8T_ufR9DsPFUAyBHp-32jxA"
 
 
 
