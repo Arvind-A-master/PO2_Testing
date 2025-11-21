@@ -17,7 +17,8 @@ def extract_text_from_pdf(local_pdf:str)->str:
         text_res = run_text_review(clean_text)
         return text_res
 
-
+def run_disclosure_analysis(excel_path: str, pdf_bytes: bytes) -> list:
+    
 
     except Exception  as e :
         print("Error:"+str(e))  
