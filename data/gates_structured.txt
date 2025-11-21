@@ -1,0 +1,398 @@
+{
+  "title": "MARKETING AND ADVERTISING CHECKLIST",
+  "focus_area": "SECURITIES AND EXCHANGE COMMISSION (SEC) MARKETING RULE",
+  "introduction": "All advertisements of an investment adviser that is registered (or required to be registered) with the SEC that promote the adviser’s investment strategies, separate accounts, and private funds are subject to the Investment Advisers Act of 1940, as amended (the Advisers Act), including Rule 206(4)‐1 thereunder (the Marketing Rule).",
+  "sections": [
+    {
+      "id": "I",
+      "title": "DEFINITION OF ADVERTISEMENT",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "PRONG ONE",
+          "description": "The definition of “advertisement” is divided into two prongs. Under prong one of the definition, an “advertisement” includes:",
+          "points": [
+            "any direct or indirect communication an investment adviser makes to more than one person,",
+            "or to one or more persons if the communication includes hypothetical performance, and",
+            "that offers the investment adviser’s investment advisory services with regard to securities to prospective clients or investors in a private fund advised by the investment adviser or offers new investment advisory services with regard to securities to current clients or investors in a private fund advised by the investment adviser."
+          ],
+          "footnotes": ["Advisers Act Rule 206(4)‐1(e)(1)(i)."]
+        },
+        {
+          "id": "B",
+          "title": "PRONG TWO",
+          "description": "Under prong two of the definition, an “advertisement” includes:",
+          "points": [
+            "any endorsement or testimonial for which an investment adviser provides compensation, directly or indirectly."
+          ],
+          "footnotes": ["Advisers Act Rule 206(4)‐1(e)(1)(ii). Prong two of the definition of advertisement is designed to capture, among other communications, compensated testimonials and endorsements that were previously treated as solicitations subject to Rule 206(4)‐3 under the Advisers Act (the Cash Solicitation Rule)."]
+        },
+        {
+          "id": "C",
+          "title": "EXCLUSIONS",
+          "description": "An “advertisement” does not include:",
+          "points": [
+            "extemporaneous, live, or oral communications;",
+            "information contained in a statutory or regulatory notice, filing, or other required communication, provided that such information is reasonably designed to satisfy the requirements of such notice, filing, or other required communication; or",
+            "a communication that includes hypothetical performance that is provided: in response to an unsolicited request for such information from a prospective or current client or investor in a private fund advised by the investment adviser; or to a prospective or current investor in a private fund advised by the investment adviser in a one‐on‐one communication."
+          ],
+          "footnotes": ["Advisers Act Rule 206(4)‐1(e)(1)(i)(A)-(C)."]
+        },
+        {
+          "id": "D",
+          "title": "THIRD‐PARTY CONTENT AND SOCIAL MEDIA",
+          "description": "Third‐party materials, including third‐party posts on an adviser’s social media pages, may be attributable to an adviser (and therefore deemed an advertisement of the adviser) if:",
+          "conditions": [
+            "the adviser has explicitly or implicitly endorsed or approved the information after its publication (i.e., “adoption”); or",
+            "the adviser has involved itself in the preparation or presentation of the information (i.e., “entanglement”)."
+          ],
+          "exclusions_from_adoption_entanglement": [
+            "permitting “likes” or “shares” on a social media page of the adviser;",
+            "enabling the “endorse” feature on a social media page of the adviser (e.g., LinkedIn); or",
+            "editing or removing third‐party content based on pre‐established, objective criteria that do not favor or disfavor the adviser (e.g., removal of third‐party content that makes false or materially inaccurate statements, contains confidential information, or includes profanity or similar inappropriate content)."
+          ],
+          "footnotes": [
+            "Investment Adviser Marketing, SEC Release No. IA‐5653 (Dec. 22, 2020) (the Marketing Rule Adopting Release) at 21.",
+            "Marketing Rule Adopting Release at 23‐24."
+          ]
+        }
+      ],
+      "comparison_chart": {
+        "advertisements": [
+          "Templates and stock presentations (including when used with existing clients, in requests for proposals, and one‐ on‐one communications).",
+          "Communications to existing investors that market new strategies or private funds.",
+          "Website content and social media posts that promote an adviser’s advisory services or private funds.",
+          "Information provided to consultant databases (when intended for distribution by the consultant).",
+          "Promotional information in offering memoranda that goes beyond the material terms, objectives, and risks of the private fund offering (e.g., related fund performance, descriptions of the market opportunity).",
+          "Communications intended for broad dissemination in connection with fundraising.",
+          "Promotional materials made available to prospective investors in data rooms.",
+          "Slides, scripts, or other written materials used in connection with speaking engagements that promote the adviser or its private funds.",
+          "Published recordings of webcasts or other speaking engagements that promote the adviser or its private funds.",
+          "GIPS® Reports.",
+          "Compensated testimonials and endorsements made on behalf of the adviser or its private funds.",
+          "Uncompensated testimonials and endorsements included in advertisements."
+        ],
+        "not_advertisements": [
+          "Correspondence and reporting to existing clients about their investments (e.g., account statements, transaction reports, and other individualized correspondence).",
+          "Tailored responses to unsolicited requests for information.",
+          "Bona fide one‐on‐one communications (including communications to multiple individuals at a single entity) that do not contain hypothetical performance (unless provided to a current or prospective private fund investor).",
+          "Brand content that does not promote the adviser’s services.",
+          "Whitepapers/educational material (that do not promote the adviser or reference specific investment strategies or products).",
+          "General market commentary (including during press interviews).",
+          "Communications to investors and prospective investors in registered investment companies."
+        ]
+      }
+    },
+    {
+      "id": "II",
+      "title": "GENERAL PROHIBITIONS",
+      "introduction": "The general prohibitions described below, including the prohibition against presenting certain information in a manner that is not fair and balanced, should be interpreted based on the relevant facts and circumstances, including the sophistication of the advertisement’s intended audience.",
+      "description": "Specifically, an advertisement may not:",
+      "prohibitions": [
+        "include any untrue statement of a material fact or omit to state a material fact necessary in order to make the statement made, in the light of the circumstances under which it was made, not misleading;",
+        "include a material statement of fact that the adviser does not have a reasonable basis for believing it will be able to substantiate upon demand by the SEC;",
+        "include information that would reasonably be likely to cause an untrue or misleading implication or inference to be drawn concerning a material fact relating to the investment adviser;",
+        "discuss any potential benefits to clients or investors connected with or resulting from the investment adviser’s services or methods of operation without providing fair and balanced treatment of any material risks or material limitations associated with the potential benefits;",
+        "include a reference to specific investment advice provided by the investment adviser where such investment advice is not presented in a manner that is fair and balanced;",
+        "include or exclude performance results, or present performance time periods, in a manner that is not fair and balanced; or",
+        "otherwise be materially misleading."
+      ],
+      "footnotes": [
+        "Although prior no‐action letters with respect to past specific recommendations serve as safe harbors for an adviser presenting specific investment advice under the Marketing Rule, these letters are not the sole means of satisfying the fair and balanced standard.",
+        "Advisers Act Rule 206(4)‐1(a)."
+      ],
+      "note_ESG": "Use of environmental, social, and governance (ESG) sustainability claims in advertisements may violate the general prohibitions of the Marketing Rule—and could be viewed as “greenwashing”—without appropriate disclosure, supporting records, and policies and procedures to substantiate such claims."
+    },
+    {
+      "id": "III",
+      "title": "TESTIMONIALS AND ENDORSEMENTS",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "DEFINITIONS",
+          "testimonial": {
+            "description": "A “testimonial” is any statement by a current client or investor in a private fund advised by the investment adviser:",
+            "points": [
+              "about the client or investor’s experience with the investment adviser or its supervised persons;",
+              "that directly or indirectly solicits any current or prospective client or investor to be a client of, or an investor in a private fund advised by, the investment adviser; or",
+              "that refers any current or prospective client or investor to be a client of, or an investor in a private fund advised by, the investment adviser."
+            ],
+            "footnotes": ["Advisers Act Rule 206(4)‐1(e)(17)."]
+          },
+          "endorsement": {
+            "description": "An “endorsement” is any statement by a person other than a current client or investor in a private fund advised by the investment adviser that:",
+            "points": [
+              "indicates approval, support, or recommendation of the investment adviser or its supervised persons or describes that person’s experience with the investment adviser or its supervised persons;",
+              "directly or indirectly solicits any current or prospective client or investor to be a client of, or an investor in a private fund advised by, the investment adviser; or",
+              "refers any current or prospective client or investor to be a client of, or an investor in a private fund advised by, the investment adviser."
+            ],
+            "footnotes": ["Advisers Act Rule 206(4)‐1(e)(5)."]
+          }
+        },
+        {
+          "id": "B",
+          "title": "REQUIREMENTS",
+          "description": "An advertisement may not include any testimonial or endorsement, and an adviser may not provide compensation directly or indirectly for a testimonial or endorsement, unless:",
+          "points": [
+            {
+              "condition": "the investment adviser discloses, or reasonably believes the person giving the testimonial or endorsement discloses, at the time the testimonial or endorsement is disseminated, clearly and prominently (Clear and Prominent Disclosure):",
+              "subpoints": [
+                "that the testimonial was given by a current client or investor, and the endorsement was given by a person other than a current client or investor, as applicable;",
+                "that cash or non‐cash compensation was provided for the testimonial or endorsement, if applicable; and",
+                "a brief statement of any material conflicts of interest on the part of the person giving the testimonial or endorsement resulting from the investment adviser’s relationship with such person."
+              ],
+              "footnotes": [
+                "Advisers Act Rule 206(4)‐1(b)(1)(i).",
+                "Forms of compensation may include, asset‐based fees, flat fees, retainers, reduced advisory fees, fee waivers, directed brokerage, sales awards or other prizes, and other forms of gifts and entertainment. Marketing Rule Adopting Release at 48."
+              ],
+              "note_promoters": "Placement agents, marketing consultants, and other solicitors will generally be viewed as “promoters” of an investment adviser to the extent that they conduct activities that constitute testimonials or endorsements as defined above."
+            },
+            {
+              "condition": "the investment adviser has a reasonable basis for believing that the testimonial or endorsement complies with the requirements of the Marketing Rule;",
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(2)(i)."]
+            },
+            {
+              "condition": "COMPENSATED ONLY the investment adviser discloses, or reasonably believes the person giving the testimonial or endorsement discloses, at the time the testimonial or endorsement is disseminated (Other Disclosure):",
+              "subpoints": [
+                "the material terms of any compensation arrangement, including a description of the compensation provided or to be provided, directly or indirectly, to the person for the testimonial or endorsement; and",
+                "a description of any material conflicts of interest on the part of the person giving the testimonial or endorsement resulting from the investment adviser’s relationship with such person and/or any compensation arrangement."
+              ],
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(1)(ii) and (iii). The Other Disclosure requirements are technically required to be provided even where the testimonial or endorsement is uncompensated, however, compensation is often the conflict of interest. If, however, there is a material conflict on the part of the person giving the testimonial or endorsement resulting from the investment adviser’s relationship with such person, then such conflict would be required to be disclosed even if the testimonial or endorsement is uncompensated."]
+            },
+            {
+              "condition": "COMPENSATED ONLY the investment adviser has a written agreement with any person giving a testimonial or endorsement that describes the scope of the agreed‐upon activities and the terms of compensation for those activities (Written Agreement); and",
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(2)(ii)."]
+            },
+            {
+              "condition": "COMPENSATED ONLY the investment adviser does not compensate a person, directly or indirectly, for a testimonial or endorsement if the adviser knows, or reasonably should know, that the person giving the testimonial or endorsement is an “ineligible person” at the time the testimonial or endorsement is disseminated (Disqualification).",
+              "footnotes": [
+                "An “ineligible person” is any person subject to a disqualifying action or disqualifying event, as well as such person’s employees, officers, directors, or other individuals with similar status or functions. Advisers Act Rule 206(4)‐1(e)(9).",
+                "Advisers Act Rule 206(4)‐1(b)(3)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "title": "EXEMPTIONS",
+          "points": [
+            {
+              "type": "SEC‐Registered Broker‐Dealers",
+              "description": "Testimonials and endorsements disseminated by SEC‐registered broker‐dealers are exempt from the following requirements:",
+              "exemptions": [
+                "Clear and Prominent Disclosure and Other Disclosure, if the testimonial or endorsement is a recommendation subject to Regulation Best Interest (Reg. BI);",
+                "Other Disclosure, if the testimonial or endorsement is provided to a person other than a retail customer under Reg BI; and/or",
+                "Disqualification, if the broker‐dealer is not subject to statutory disqualification under Section 3(a)(39) of the Securities Exchange Act of 1934."
+              ],
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(4)(iii)."]
+            },
+            {
+              "type": "Affiliates",
+              "description": "Testimonials or endorsements made by affiliated personnel are exempt from the following requirements:",
+              "exemptions": [
+                "Clear and Prominent Disclosure, Other Disclosure, and Written Agreement, provided that the affiliation between the adviser and such person is readily apparent to or disclosed to the prospective investor at time of the testimonial or endorsement and the status of the affiliated person is documented at the time of dissemination."
+              ],
+              "footnotes": [
+                "Affiliated personnel includes: (i) an investment adviser’s partners, officers, directors, and employees; (ii) any person that controls, is controlled by, or is under common control with the investment adviser; and (iii) any partner, officer, director, or employee of such a person. Affiliated personnel also includes independent contractors over which an adviser exercises substantially the same level of supervision and control as it exercises over its employees. Marketing Rule Adopting Release at 139.",
+                "Advisers Act Rule 206(4)‐1(b)(4)(ii)."
+              ]
+            },
+            {
+              "type": "Rule 506(d)",
+              "description": "Testimonials or endorsements disseminated by a person covered by Rule 506(d) of Regulation D under the Securities Act of 1933, as amended (the Securities Act), with respect to a Rule 506 offering under the Securities Act, and whose involvement would not disqualify an offering under Rule 506 are exempt from the Disqualification requirement above.",
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(4)(iv)."]
+            },
+            {
+              "type": "De Minimis Compensation",
+              "description": "Testimonials or endorsements disseminated for no compensation or for de minimis compensation (less than US$1,000 during the preceding 12 months) are exempt from the Written Agreement and Disqualification requirements above.",
+              "footnotes": ["Advisers Act Rule 206(4)‐1(b)(4)(i). The de minimis threshold generally applies to all personnel at a promoter firm on an aggregate basis."]
+            }
+          ],
+          "note_de_minimis": "Testimonials and endorsements provided for de minimis compensation are still considered “advertisements” under prong two of the definition of advertisement."
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "THIRD‐PARTY RATINGS",
+      "definition": "“Third‐party rating” means a rating or ranking of an investment adviser provided by a person who (i) is not a related person (as defined in the Form ADV Glossary of Terms); and (ii) provides such ratings or rankings in the ordinary course of its business.",
+      "prohibition": "An advertisement may not include any third‐party rating, unless the investment adviser:",
+      "conditions": [
+        {
+          "requirement": "has a reasonable basis for believing that any questionnaire or survey used in the preparation of the third‐party rating:",
+          "subpoints": [
+            "is structured to make it equally easy for a participant to provide favorable and unfavorable responses; and",
+            "is not designed or prepared to produce any predetermined result; and"
+          ]
+        },
+        {
+          "requirement": "Clearly and prominently discloses (or reasonably believes that the third‐party rating clearly and prominently discloses):",
+          "subpoints": [
+            "the date on which the rating was given;",
+            "the period of time upon which the rating was based;",
+            "the identity of the third party that created and tabulated the rating; and",
+            "that compensation has been provided directly or indirectly by the adviser in connection with obtaining or using the third‐party rating, if applicable."
+          ]
+        }
+      ],
+      "footnotes": [
+        "Advisers Act Rule 206(4)‐1(e)(18). Third‐party ratings are differentiated from testimonials and endorsements by the requirement that they be provided by a third party that is in the business of providing such ratings or rankings.",
+        "Clear and Prominent Disclosure must be at least as prominent as the rating itself (e.g., same font size, proximate location, not in a footnote).",
+        "Advisers Act Rule 206(4)‐1(c)."
+      ]
+    },
+    {
+      "id": "V",
+      "title": "INVESTMENT PERFORMANCE",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "NET‐OF‐FEES REQUIREMENT",
+          "gross_performance_def": "“Gross performance” is the performance results of a portfolio (or portions of a portfolio that are included in extracted performance, if applicable) before the deduction of all fees and expenses that a client or investor has paid or would have paid in connection with the investment adviser’s investment advisory services to the relevant portfolio.",
+          "net_performance_def": "“Net performance” is the performance results of a portfolio (or portions of a portfolio that are included in extracted performance, if applicable) after the deduction of all fees and expenses that a client or investor has paid or would have paid in connection with the investment adviser’s investment advisory services to the relevant portfolio.",
+          "requirement": "The investment performance of any portfolio (or portions of a portfolio that are included in extracted performance) in an advertisement must be presented net‐of‐fees. Net performance must be calculated:",
+          "calculation_methods": [
+            "based on the deduction of actual fees and expenses paid in connection with the investment advisory services provided to the relevant portfolio; or",
+            "based on the deduction of a model fee if: the resulting performance is no higher than if the actual fee had been deducted; or the model fee used is equal to the highest fee charged to the intended audience of the advertisement."
+          ],
+          "gross_performance_condition": "An advertisement may not include any presentation of gross performance unless the advertisement also presents net performance:",
+          "gross_performance_subpoints": [
+            "with at least equal prominence to, and in a format designed to facilitate comparison with, the gross performance; and",
+            "calculated over the same time period, and using the same type of return and methodology, as the gross performance."
+          ],
+          "footnotes": [
+            "“Portfolio” means a group of investments managed by the investment adviser. A portfolio may be an account or a private fund and includes, but is not limited to, a portfolio for the account of the investment adviser or its advisory affiliate (as defined in the Form ADV Glossary of Terms). Advisers Act Rule 206(4)‐1(e)(11).",
+            "Advisers Act Rule 206(4)‐1(e)(7).",
+            "Advisers Act Rule 206(4)‐1(e)(10).",
+            "In Frequently Asked Questions (FAQ) guidance, the SEC staff stated that the performance of a single investment is “extracted performance” for purposes of the Marketing Rule and therefore must be presented net‐of‐fees. Marketing Compliance Frequently Asked Questions (Jan. 11, 2023), SEC.gov | Marketing Compliance Frequently Asked Questions.",
+            "The deduction of actual fees and expenses should include, if applicable, advisory fees, advisory fees paid to underlying investment vehicles, and payments by the investment adviser for which the client or investor reimburses the investment adviser. Net performance may exclude custodian fees paid to a bank or other third‐party organization for safekeeping funds and securities.",
+            "Advisers Act Rule 206(4)‐1(e)(10).",
+            "Advisers Act Rule 206(4)‐1(d)(1)."
+          ],
+          "note_private_fund_IRR": "Presentation of a private fund’s gross IRR without the impact of subscription facilities must be accompanied by the fund’s net IRR during the same time period (i.e., without the impact of subscription facilities). Furthermore, presentation of net IRR with the impact of subscription facilities must be accompanied by either (1) the net IRR without the impact of fund-level subscription facilities, or (2) appropriate disclosures describing the impact of the subscription facilities on the net IRR shown.",
+          "note_private_fund_IRR_footnote": "Marketing Compliance Frequently Asked Questions (Feb. 6, 2024), SEC.gov | Marketing Compliance Frequently Asked Questions."
+        },
+        {
+          "id": "B",
+          "title": "REQUIRED TIME PERIODS",
+          "requirement": "An advertisement may not include the investment performance of any portfolio or any composite aggregation of related portfolios, in each case other than any private fund, unless the advertisement also includes:",
+          "points": [
+            "performance results for the same portfolio or composite aggregation for one‐, five‐, and ten‐year periods (or if the portfolio did not exist for a particular prescribed time period, then since inception performance must be substituted for that period);",
+            "each presented with equal prominence; and",
+            "ending on a date that is no less recent than the most recent calendar year‐end."
+          ],
+          "footnotes": ["Advisers Act Rule 206(4)‐1(d)(2)."],
+          "note_calculation_timing": "If an adviser is unable to calculate one‐, five‐, and ten‐year performance immediately following a calendar year‐end, it may use performance information that is calculated as of the immediately preceding third quarter‐end until it can comply with the calendar year‐end requirement (which generally must be within one month of the most recent calendar year‐ end).",
+          "note_calculation_timing_footnote": "Marketing Compliance Frequently Asked Questions (Apr. 14, 2021), SEC.gov | Marketing Compliance Frequently Asked Questions."
+        },
+        {
+          "id": "C",
+          "title": "STATEMENTS OF COMMISSION APPROVAL",
+          "prohibition": "An advertisement must not include any statement, express or implied, that the calculation or presentation of performance results has been approved or reviewed by the SEC.",
+          "footnotes": ["Advisers Act Rule 206(4)‐1(d)(3)."]
+        },
+        {
+          "id": "D",
+          "title": "RELATED PERFORMANCE",
+          "definition": "“Related performance” means the performance results of one or more related portfolios, either on a portfolio‐by‐portfolio basis or as a composite aggregation of all portfolios falling within stated criteria.",
+          "prohibition": "An advertisement may not include any related performance unless the advertisement:",
+          "conditions": [
+            "includes all portfolios with substantially similar investment policies, objectives, and strategies as those of the services being offered in the advertisement (related portfolios); or",
+            "excludes one or more related portfolios if: the advertised performance results are not materially higher than if all related portfolios had been included; or the exclusion of any related portfolio does not alter the presentation of any applicable time periods described in Section V.B above."
+          ],
+          "footnotes": [
+            "Advisers Act Rule 206(4)‐1(e)(14).",
+            "Advisers Act Rule 206(4)‐1(d)(4)."
+          ],
+          "note_representative_account": "When presenting the performance of a representative account, the advertisement must comply with the related performance requirements.",
+          "note_representative_account_footnote": "Marketing Rule Adopting Release at 191.",
+          "note_GIPS_criteria": "The same criteria used to construct composites for purposes of the Global Investment Performance Standards (GIPS®) may be used to satisfy the “substantially similar” requirement when assessing whether an account or fund is a related portfolio.",
+          "note_GIPS_criteria_footnote": "Marketing Rule Adopting Release at 194."
+        },
+        {
+          "id": "E",
+          "title": "EXTRACTED PERFORMANCE",
+          "definition": "“Extracted performance” is the performance results of a subset of investments extracted from a portfolio.",
+          "prohibition": "An advertisement may not include any extracted performance unless:",
+          "conditions": [
+            "the extracted performance is presented net‐of‐fees; and",
+            "the advertisement provides, or offers to provide promptly, the performance results of the total portfolio from which the performance was extracted."
+          ],
+          "footnotes": [
+            "Advisers Act Rule 206(4)‐1(e)(6). Certain performance attribution (e.g., sector or geographic returns) and risk statistics (e.g., active or excess return) are extracted performance subject to these requirements. While “performance” is not defined in the Marketing Rule, a good rule of thumb to determine whether a particular metric is performance is whether it expresses to an investor how much money the investor would receive on a relative or absolute basis if an investment had been made in the portfolio.",
+            "Advisers Act Rule 206(4)‐1(d)(5)."
+          ],
+          "note_time_periods": "Extracted performance does not need to be shown for the required time periods described in Section V.B above. However, the required time periods would apply to the performance of the total portfolio from which the performance results were extracted.",
+          "note_individual_holdings": "The presentation of individual holdings (e.g., a case study or list of investments) should be treated as extracted performance subject to the requirements above.",
+          "note_single_portfolio": "The extracted performance requirements apply only to a subset of investments extracted from a single portfolio. The Marketing Rule does not prohibit an adviser from presenting a performance composite that includes carve‐outs from multiple portfolios in an advertisement. However, such a composite, even if constructed according to the GIPS® standards, would be considered hypothetical performance under the Marketing Rule and subject to Section V.F below.",
+          "note_single_portfolio_footnote": "Marketing Rule Adopting Release at 197‐98."
+        },
+        {
+          "id": "F",
+          "title": "HYPOTHETICAL PERFORMANCE",
+          "definition": "“Hypothetical performance” means performance results that were not actually achieved by any portfolio of the investment adviser and includes, but is not limited to:",
+          "types": [
+            "performance derived from model portfolios;",
+            "performance that is backtested by the application of a strategy to data from prior time periods when the strategy was not actually used during those time periods; and",
+            "targeted or projected performance returns with respect to any portfolio or to the investment advisory services with regard to securities offered in the advertisement."
+          ],
+          "exclusions_from_def": [
+            "predecessor performance that is displayed in compliance with the requirements outlined in Section V.G below; or",
+            "an interactive analysis tool where a client or investor, or prospective client or investor, uses the tool to produce simulations and statistical analyses that present the likelihood of various investment outcomes if certain investments are made or certain investment strategies or styles are undertaken, thereby serving as an additional resource to investors in the evaluation of the potential risks and returns of investment choices; provided that the investment adviser: provides a description of the criteria and methodology used, including the investment analysis tool’s limitations and key assumptions; explains that the results may vary with each use and over time; if applicable, describes the universe of investments considered in the analysis, explains how the tool determines which investments to select, discloses if the tool favors certain investments and, if so, explains the reason for the selectivity, and states that other investments not considered may have characteristics similar or superior to those being analyzed; and discloses that the tool generates outcomes that are hypothetical in nature."
+          ],
+          "prohibition": "An advertisement may not include any hypothetical performance unless the investment adviser:",
+          "conditions": [
+            "adopts and implements policies and procedures reasonably designed to ensure that the hypothetical performance is relevant to the likely financial situation and investment objectives of the intended audience of the advertisement;",
+            "provides sufficient information to enable the intended audience to understand the criteria used and assumptions made in calculating such hypothetical performance; and",
+            "provides (or, if the intended audience is an investor in a private fund, provides, or offers to provide promptly) sufficient information to enable the intended audience to understand the risks and limitations of using such hypothetical performance in making investment decisions."
+          ],
+          "footnotes": [
+            "Advisers Act Rule 206(4)‐1(e)(8).",
+            "The SEC has brought enforcement actions against advisers for presenting hypothetical performance on their websites, thereby violating the Marketing Rule requirement to limit presentation of such performance only where relevant to the likely financial situation and investment objectives to the intended audience. See SEC.gov | SEC Sweep into Marketing Rule Violations Results in Charges Against Nine Investment Advisers.",
+            "Advisers Act Rule 206(4)‐1(d)(6)."
+          ],
+          "note_exceptions": "Hypothetical performance does not need to comply with the time period, related performance, and extracted performance requirements described above."
+        },
+        {
+          "id": "G",
+          "title": "PREDECESSOR PERFORMANCE",
+          "definition": "“Predecessor performance” means investment performance achieved by a group of investments consisting of an account or a private fund that was not advised at all times during the period shown by the investment adviser advertising the performance.",
+          "prohibition": "An advertisement may not include any predecessor performance unless:",
+          "conditions": [
+            "the person or persons who were primarily responsible for achieving the prior performance results manage accounts at the advertising adviser;",
+            "the accounts managed at the predecessor investment adviser are sufficiently similar to the accounts managed at the advertising investment adviser that the performance results would provide relevant information to clients or investors;",
+            "all accounts that were managed in a substantially similar manner are advertised unless the exclusion of any such account would not result in materially higher performance and the exclusion of any account does not alter the presentation of any applicable time periods as described in Section V.B above; and",
+            "the advertisement clearly and prominently includes all relevant disclosures, including that the performance results were from accounts managed at another entity."
+          ],
+          "footnotes": [
+            "Advisers Act Rule 206(4)‐1(e)(12).",
+            "Under a strict reading of the Marketing Rule, the person(s) responsible for that ported performance must continue to manage accounts at the advertising adviser. If the person(s) no longer manage the accounts, the historical performance from the prior firm can no longer be used.",
+            "Advisers Act Rule 206(4)-1(d)(7).",
+            "Marketing Rule Adopting Release at 232."
+          ],
+          "note_substantial_identity": "Where more than one person is responsible for the performance, the first condition will be satisfied if a “substantial identity of the group” responsible for achieving the prior performance continues to manage the applicable accounts.",
+          "note_successor_entity": "If an adviser succeeds to the advisory business of a predecessor entity (e.g., through a change in the form of legal organization or a change in ownership), the adviser does not need to treat the performance of the predecessor entity as predecessor performance.",
+          "note_successor_entity_footnote": "In assessing whether an adviser must treat a predecessor adviser’s performance as predecessor performance, (i) the SEC would consider whether there was a substantial and direct business nexus between the successor and predecessor advisers; (ii) whether the reorganization was not designed to eliminate substantial liabilities and/or spin off personnel; and (iii), if applicable, whether the successor adviser assumed substantially all of the assets and liabilities of the predecessor adviser. Marketing Rule Adopting Release at 228‐29."
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "RECORDKEEPING",
+      "requirement": "Advisers are required by Rule 204‐2 under the Advisers Act (the Books and Records Rule) to make and keep true, accurate and current (for the periods set forth in the Books and Records Rule):",
+      "records_to_keep": [
+        "copies of all advertisements distributed by the adviser directly or indirectly, except: for oral advertisements, a copy of any written or recorded materials used in connection with the oral advertisements may be retained in lieu of the advertisement itself; and for compensated oral testimonials and endorsements, a record of the disclosures provided to clients or investors may be retained in lieu of the advertisement itself;",
+        "copies of all notices, circulars, articles, investment letters, bulletins, and other communications that are not “advertisements” under the Marketing Rule that the adviser disseminates directly or indirectly to ten or more persons not associated with the adviser;",
+        "a copy of any questionnaire or survey used in the preparation of a third‐party rating included in any advertisement (if the adviser obtains a copy);",
+        "if not included in an advertisement, a record of the disclosures provided to clients or investors in connection with any testimonial or endorsement;",
+        "documentation supporting the adviser’s reasonable basis for believing a testimonial, endorsement, or third‐party rating complies with the Marketing Rule;",
+        "a record of all persons who are partners, officers, directors, or employees, or control, are controlled by, or under common control with the adviser, or are a partner, officer, director, or employee of such person (for purposes of determining whether a testimonial or endorsement is disseminated by an affiliate pursuant to Rule 206(4)‐1(b)(4)(ii));",
+        "originals of all written communications received and copies of all written communications sent by the adviser relating to predecessor performance and the performance or rate of return of any or all managed accounts, portfolios, or securities recommendations;",
+        "communications sent to more than one person not connected with the adviser, and all accounts, books, internal working papers, and any other records or documents that are necessary to form the basis for or demonstrate the calculation of the performance or rate of return of any or all managed accounts, portfolios, or securities recommendations in any such communication;",
+        "copies of all information provided or offered in connection with the inclusion of hypothetical performance in an advertisement (if not included in the advertisement itself); and",
+        "a record of who the intended audience is for any hypothetical performance or any performance calculated using a model fee."
+      ],
+      "footnotes": ["Advisers Act Rule 204‐2(a)."]
+    }
+  ]
+}

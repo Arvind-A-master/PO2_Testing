@@ -1,0 +1,7 @@
+```json
+{
+    "compliance": "REJECT",
+    "REJECTION_EXPLANATION": "The advertisement contains untrue statements of material fact and is materially misleading by guaranteeing future results and stable yields. The phrases \"does guarantee future results\" and \"Yields will not vary\" directly contradict fundamental principles of investment risk and are prohibited under final rule 206(4)–1(a)(1), which prohibits untrue statements of a material fact, and final rule 206(4)–1(a)(7), which prohibits otherwise materially misleading advertisements. Investment performance and yields are inherently subject to market fluctuations and cannot be guaranteed.",
+    "SINGLE_BEST_ALTERNATIVE": "Performance data represents past performance and does not guarantee future results. Yields will vary. Current performance may be lower or higher than the performance data quoted. Please call 800-441-7450 or log on to www.blackrock.com/cash to obtain performance data current to the most recent month-end."
+}
+```

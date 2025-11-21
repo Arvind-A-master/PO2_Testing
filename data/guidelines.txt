@@ -1,0 +1,138 @@
+Mutual f u n d fact sheet s t a n d a r d s
+and internal guidelines
+
+1. Ticker box
+• List product type followed by asset class in the
+first square
+• List all share classes that are available publicly
+on the fact sheets. Refer to the prospectus.
+Order should follow website, I first, followed by
+A, C, Rs.
+Product name
+• Name of product should appear and reconcile
+to the prospectus
+3. As of date
+• Minimum standard is to indicate the "as of
+date" for the most recent calendar quarter
+period. Format: DD MMM YVY.
+• The indication of "4Q2017" is not required as
+the above satisfies the compliance requirement
+4. Hypothetical growth charts
+• The growth is "hypothetical"
+• The amount of the hypothetical investment.
+• The beginning and end dates of the chart.
+• The lesser of 10 years of data or the entire
+history should appear
+• Whether the hypothetical performance is
+adjusted for fees, charges, expenses and
+reinvestments of dividends and capital gains.
+(see disclaimer under chart)
+• How returns/growth are represented needs to ba
+identified (e.g., %, $, etc.)
+• If there are multiple share classes, the share
+class that is represented in the hypothetical
+growth/return needs to be identified
+• How "returns" are calculated should be
+disclosed (e.g., annualized, calender year,
+hypothetical, etc.)
+Hypothetical growth chart disclosures
+• This disclosure should appear and address how
+expenses, costs, dividends and capital gains are
+reflected in the chart.
+Marketing standard
+• Business wants to show share class "I"
+• Note: For other document types other share
+classes may be considered
+5. Calendar year returns
+• The lesser of 10 years of data or the entire
+history as of last calendar year-end
+Marketing standard
+• If an index is used, the "Marketing Index"
+must be used. Note that the Marketing Index
+is typically a broad based index. Please see
+"Marketing Benchmark Listing" for a listing of
+the appropriate indexes
+• List I first, followed by A, C, Rs, and
+benchmarks
+6. Average annualized total return
+• Standardized performance: breaking returns
+down into periods (e.g., 1, 5, 10 or since
+inception through the most recent quarter)
+requires equal comparison across all share
+classes. Other non-standardized returns such as
+the 3 year may be included as long as they are
+equally prominent
+• If "since inception" date is used, then the
+inception date should be disclosed
+Average annualized total returns disclosures
+(Performance disclosures related to share
+classes)
+• This particular "Past performance" disclaimer is
+required to be under "Average annualized total
+return" chart and should be in bold
+• Note: A past performance disclaimer is needed
+to be repeated on each page that contains
+performance and returns
+• For all share classes where performance is
+displayed, the total annual operating expense
+ratio, gross of any fees waivers or expense
+reimbursements, as stated in the fee table
+of the fund's prospectus must be disclosed
+prominently. The net expense ratio is not
+required but is permitted as long as there is
+a disclosure that indicated if the fee waiver is
+voluntary or contractual and the end date of the
+walver is included
+• Class i shares requires the disclaimer cited and
+reconcile to the prospectus
+• Class A shares requires the disclaimer cited.
+Class A performance must be displayed with
+maximum sales charge included and must
+disclose the maximum sales charge percentage.
+Class A performance without sales charge is
+permitted as non-standard performance but
+cannot be shown on its own. The disclaimer
+cited must reconcile to the prospectus
+• Class C shares requires the disclalmer cited.
+Any share class (Class C in this example) with
+a CDSC (deferred sales charge) must also
+disclose that percentage amount. Disclosures
+regarding sales charge can be limited to the
+share class(es) being displayed on the page.
+The disclaimer cited must reconcile to the
+prospectus
+• Class R3 shares requires the disclaimer cited
+and reconcile to the prospectus
+• Class R6 shares requires the disclaimer cited
+and reconcile to the prospectus
+• The last sentence of the disclaimer is only
+required if multiple share classes with differing
+Inception dates are shown on the same
+performance chart and since inception index
+performance is being displayed
+7. Expense ratio disclosure
+• This should appear under all "Expense ratio
+(%)* charts. Required disclosure could vary on
+waiver. If required it needs to appear under the
+table
+8. For consistency, the " " indication should be in
+the title of these sections
+9. Morningstar ratings box
+• Morningstar will be shown when I class has a
+minimum of four stars
+Morningstar rating box disclosure
+• This should appear under all Momingstar
+ratings boxes
+10. Yield disclosure
+• This should appear under all "Yield (%)* charts
+11. Fund column should read "Fund net assets"
+12. Sector allocation disclosure
+• This disclosure appears under "Sector allocation
+(%)* section
+13. Bank disclosure
+• This disclaimer to be placed on first page lower
+left corner, in at least 8 pt font, all caps, with
+pipes/vertical bar, in bold
+• Order is NOT/NO/MAY
+• Note: Due to certain intermediary business
+requirements (e.g., banks branches, etc.)

@@ -1,0 +1,39 @@
+Purpose and Scope:
+    - The Morningstar Medalist Rating is a forward-looking analysis tool for evaluating funds, designed to provide a summary view of an investment vehicle’s potential to generate positive net alpha relative to its category or index.
+
+Rating Scale and Consolidation:
+    - It uses a five-tier scale that ranges from Gold, Silver, Bronze (indicating expectations for positive alpha), to Neutral and Negative (indicating a lack of anticipated positive alpha).
+    - The methodology consolidates the separate Morningstar Analyst Rating and Quantitative Rating into one unified rating, eliminating the “Q” designation at the overall level while retaining detailed information at the pillar level.
+
+Methodological Framework:
+    - The process involves estimating the potential for alpha generation before fees, determining how much of that potential an active strategy can capture, and then translating that into a net-of-fee alpha estimate.
+    - This net alpha is then mapped onto the five-tier rating system.
+
+Pillars of Assessment:
+    - Three key pillars underpin the research framework: People, Process, and Parent.
+    - Pillar ratings are determined either directly by analysts, indirectly via inheritance rules, or by a machine-learning algorithm (using techniques such as “random forest”).
+
+Data and Eligibility Criteria:
+    - Funds must meet specific minimum data requirements, such as having representative cost data and meeting peer group mapping standards.
+    - The methodology excludes certain types of funds, for example, dedicated funds, zero-fee funds, or restricted funds.
+
+Scalability and Evolution:
+    - The change to the Medalist Rating is part of an evolution intended to simplify and scale the fund rating ecosystem as the managed investment universe grows.
+    - Despite the consolidation, the core methodology remains consistent with previous frameworks.
+
+Distribution and Application:
+    - The rating distribution is set so that approximately 25% of active funds are classified as Medalists (Gold, Silver, Bronze), 50% are rated Neutral, and the remaining 25% are Negative.
+    - The rating is used to aid fund selectors and advisors in making informed client recommendations, while emphasizing that the rating should not be used as the sole basis for investment decisions.
+
+Disclosures and Limitations:
+    - A robust disclaimer highlights that the ratings do not represent guarantees, are subject to various risks and uncertainties, and should not be considered comprehensive investment advice.
+    - External factors such as management changes, economic developments, and unforeseen market dynamics could lead to deviations from expected outcomes.
+
+Key Points from Morningstar Document:
+- The Morningstar Medalist Rating is a forward-looking analysis tool for evaluating funds by estimating their potential to generate positive net alpha relative to their category/index.
+- It uses a five-tier scale (Gold, Silver, Bronze for positive alpha; Neutral and Negative for no expected positive alpha), consolidating the separate Analyst and Quantitative Ratings into one unified rating.
+- The methodology involves estimating alpha potential before fees, determining the capture rate of that alpha, and converting it into a net-of-fee alpha estimate which is then mapped to the rating scale.
+- The assessment is built on three pillars: People, Process, and Parent. These pillars are rated either by direct analyst review, via inheritance rules, or by a machine-learning algorithm using techniques such as "random forest."
+- There are minimum data requirements for funds (e.g., having representative cost data and proper peer group mapping), with certain fund types (dedicated, zero-fee, restricted funds) excluded.
+- The upgrade to the Medalist Rating aims to scale the ratings system for a growing managed investment universe while maintaining the core framework, with an approximately 25%-50%-25% distribution among Medalists, Neutrals, and Negatives.
+- A detailed disclaimer clarifies that the ratings do not constitute guarantees, and that various market and management risks can lead to deviations from expected outcomes.

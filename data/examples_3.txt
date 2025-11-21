@@ -1,0 +1,77 @@
+Compliant : QTD YTD 1 Year 3 Year 5 Year 10 Year Since Inception
+            (01 Nov 2016)
+            Excess Returns - Gross (bps) +25 +314 +314 +81 +164 -- +260
+            Excess Returns - Net (bps) +13 +266 +266 +34 +117 -- +213
+            Tracking Error (%) NM NM NM 3.76 7.1 -- 5.73
+            Information Ratio (Gross) NM NM NM 0.23 0.26 -- 0.47
+            Information Ratio (Net) NM NM NM 0.11 0.20 -- 0.39
+Non-Complaint : QTD YTD 1 Year 3 Year 10 Year Since Inception
+                (01 Nov 2016)
+                Excess Returns - Gross (bps) +25 +314 +314 +81 -- +260
+                Excess Returns - Net (bps) +13 +266 +266 +34 -- +213
+                Tracking Error (%) NM NM NM 3.76 -- 5.73
+                Information Ratio NM NM NM 0.23 -- 0.47
+                Information Ratio (Net) NM NM NM 0.11 -- 0.39
+Remarks : 5 year column is missing in the table, make sure to check and include fund launch date or Since inception date 
+
+Compliant : Past performance is not a guarantee or a reliable indicator of future results.
+Non-Compliant : Past performance is a guarantee or a reliable indicator of future results. 
+Remarks: "not" is missing
+
+Compliant : Overall sector allocation contributed to performance during the quarter,
+Non-Compliant : Overall sector allocation contributed to superior performance during the quarter, 
+Remarks: "superior" is added which is not required
+
+Compliant : ANNUALIZED PERFORMANCE
+            Without Sales Charge 1 Year 3 Year 5 Year 10 year
+            Institutional 21.39 12.29 7.97 8.91
+            Benchmark 5.25 3.90 2.47 3.45
+            Morningstar Average 8.55 7.93 5.44 6.32
+Non-Compliant : ANNUALIZED PERFORMANCE
+                Without Sales Charge 1 Year 3 Year 5 Year
+                Institutional 21.39 12.29 7.97
+                Benchmark 5.25 3.90 2.47
+                Morningstar Average 8.55 7.93 5.44 
+Remarks: 10 year column is missing in the table, make sure to check and include fund launch date or Since inception date 
+
+Compliant : 31 12 2024
+Non-Compliant : DD MMM YYYY
+Remarks: Placeholder is present instead of actual date
+
+Compliant : The week in review
+Non-Complaint : The year in review
+Remarks : "week" is chnaged to "year" since its a weekly market commentary 
+
+Compliant : Since the pandemic began, the commercial real estate
+office sector has been one of the most heavily impacted
+industries as companies adopted work-from-home policies,
+reducing the need for physical office space in large cities.
+While much has been written about the demise of the post-
+pandemic office sector, with double-digit vacancy rates and
+negative net operating income growth over the last three
+years, is it possible that the sector has reached a turning
+point in its recovery? Several key indicators seem to point
+this way.
+Non-Complaint: Since the pandemic began, the commercial real estate
+office sector has been one of the most heavily impacted
+industries as companies adopted work-from-hotel policies,
+reducing the need for physical office space in large cities.
+While much has been written about the demise of the post-
+pandemic office sector, with double-digit vacancy rates and
+positive net operating income growth over the last three
+years, the sector has reached a turning point in its recovery.
+Several key indicators seem to point this way
+Remarks: "home" is changed to "hotel", 
+
+Complaint : Today, a more modern approach to tax management has emerged, providing tax-conscious investors with increased flexibility and more opportunities to
+generate alpha: in any period of market stress, regardless of timing, investors can capitalize on negative performance by realizing a loss in a position,
+deducting that loss from that year’s tax bill and reinvesting the proceeds into a security, or basket of securities, with similar characteristics. In other
+words, market volatility can be transformed into tax savings without the need to deviate from long-term allocation goals or transition into cash.
+Non-Complaint:Today, a more modern approach to tax management has emerged, providing tax-conscious investors with increased flexibility and more opportunities to generate alpha: in any period of market stress, regardless of timing, investors should capitalize on negative performance by realizing a loss in a position,
+deducting that loss from that year’s tax bill and reinvesting the proceeds into a JPM security, or basket of JPM securities, with similar characteristics. In other
+words, market volatility will be transformed into tax savings without the need to deviate from long-term allocation goals or transition into cash.
+Remarks: JPM 
+
+Complaint: Looking forward, tax management will likely play an increasingly important role in portfolio construction. Volatility has become an integral part ofcontemporary markets, thanks to increased market efficiency, greater access to data and the empowerment of retail money through online brokerageplatforms. In addition, stretched U.S. equity valuations make markets more susceptible to shocks. As a result, potential policy surprises – like thosesurrounding immigration, trade or the regulatory regime – will be felt much more acutely, and changes to rate expectations will reverberate morepowerfully through markets.
+Non-Complaint: Looking forward, tax management will play an increasingly important role in portfolio construction. Volatility will surely become an integral part of contemporary markets, thanks to increased market efficiency, greater access to data and the empowerment of retail money through online brokerage platforms. In addition, stretched U.S. equity valuations make markets more susceptible to shocks. As a result, potential policy surprises – like those surrounding immigration, trade or the regulatory regime – will be felt much more acutely, and changes to rate expectations will reverberate more powerfully through markets. This is the reason why we think all retail investors should invest in JPM products.
+

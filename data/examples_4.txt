@@ -1,0 +1,19 @@
+Positive : Sector Allocation (%)
+Negative Example: Sector Allocation
+Remarks: Percentage Symbol is missing
+
+Positive Example : Rating Distribution3,4(%)
+Negative Example : Rating Distribution3,4
+Remarks : Percentage Symbol is missing
+
+Positive Example : SECTOR BREAKDOWN 2 (%)
+Negative Example : SECTOR BREAKDOWN 2
+Remarks: Percentage Symbol is missing
+
+Positive Example : Net Returns %
+Negative Example : Net Returns 
+Remarks: Percentage Symbol is missing
+
+Positive Example : Duration / Curve / Currency 10%
+Negative Example : Duration / Curve / Currency 10
+Remarks: Percentage Symbol is missing
