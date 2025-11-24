@@ -218,5 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-__pycache__\prompts.cpython-310.pyc
+__pycache__/prompts.cpython-310.pyc
+__pycache__
 uploaded_pdfs
+documents.db
+compliance_result.txt
+extracted_text.txt

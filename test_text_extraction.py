@@ -29,34 +29,22 @@ def clean_pdf_text(text: str) -> str:
 
     return text
 
-def extract_text_from_pdf(local_pdf:str)->Optional[List[str]]:
+def extract_text_from_pdf(local_pdf:str)->Optional[str]:
     try:
         # changed the document text loading from docling to langchain as it is not extracting text properly and often return empty string
 
         loader = UnstructuredPDFLoader(local_pdf, mode="elements", languages=["eng"])
         result = loader.load()
-        page_contents = result[0].page_content
-        clean_text = clean_pdf_text(page_contents)
-        res =[]
-        text_res = run_text_review(clean_text)
-        # desclosure_res = disclosure(local_pdf) TODO: include disclosure analysis
-        multimodal_res = run_multimodal(local_pdf)
-        syn_res = run_syn(text_res,multimodal_res)
-        print(syn_res)
-        res.append(syn_res)
-        return res
-
+        page_content = ""
+        for text in result:
+            page_content += " " + text.page_content
+        clean_text = clean_pdf_text(page_content)
+        return clean_text
 
     except Exception  as e :
         print("Error:"+str(e))  
         return None
 
-def run_pipeline(pdfpath)->Optional[List[str]]:
-    pdf_path = pdfpath
-    res = extract_text_from_pdf(pdf_path)
-    print("\n===== START FULL REPORT =====\n")
-    print(res)
-    print("\n===== END FULL REPORT =====\n")
-
-    return res
-  
+if __name__ == "__main__":
+    extracted_text = extract_text_from_pdf(r"TC21_FS_BlkRock_institutional-fund-sl-agency-shares Original.pdf")
+    print(extracted_text)

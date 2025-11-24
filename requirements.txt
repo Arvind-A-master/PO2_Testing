@@ -8,3 +8,10 @@ google-genai
 google-cloud-aiplatform
 sqlalchemy
 PyPDF2
+langchain_community
+unstructured
+pdfminer.six
+pi_heif
+unstructured_inference
+pdf2image
+unstructured_pytesseract
