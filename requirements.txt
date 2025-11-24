@@ -6,3 +6,5 @@ streamlit
 docling
 google-genai
 google-cloud-aiplatform
+sqlalchemy
+PyPDF2

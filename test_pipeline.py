@@ -16,16 +16,14 @@ def extract_text_from_pdf(local_pdf:str)->str:
         result = converter.convert(local_pdf)
         markdown = result.document.export_to_markdown(strict_text=True)
         clean_text = re.sub(r"<!-- image -->", "", markdown)
-
+        res =[]
         text_res = run_text_review(clean_text)
-        print(text_res)
         desclosure_res = disclosure(local_pdf)
-        print(desclosure_res)
         multimodal_res = run_multimodal(local_pdf)
-        print(multimodal_res)
         syn_res = run_syn(text_res,multimodal_res)
         print(syn_res)
-        return text_res
+        res.append(syn_res)
+        return res
 
 
 
@@ -33,8 +31,10 @@ def extract_text_from_pdf(local_pdf:str)->str:
         print("Error:"+str(e))  
     return None 
 
-if __name__ == "__main__":
-    pdf_path = "TC21_FS_BlkRock_institutional-fund-sl-agency-shares Original.pdf"   
-    text = extract_text_from_pdf(pdf_path)
+def run_pipeline(pdfpath):
+    pdf_path = pdfpath
+    res = extract_text_from_pdf(pdf_path)
+    print(res)
     print("\n===== FULL REPORT =====\n")
+    return res
   
